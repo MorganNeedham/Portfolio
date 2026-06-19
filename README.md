@@ -1,26 +1,28 @@
 # Morgan Needham Portfolio
 
-A personal portfolio website built to showcase my front-end development projects, technical skills, and growth as a junior software developer.
+A personal portfolio website built to showcase my front-end development projects, technical skills, and growth as a junior front-end developer.
 
 ## Live Site
 
-[View Portfolio](https://morganneedham.github.io/Portfolio/)
+[View Portfolio](https://morganneedham.github.io/portfolio/)
 
 ## Features
 
-- Responsive layout
-- Hero section with professional introduction
-- About section
-- Skills section
-- Project showcase
-- Contact links
+* Responsive layout
+* Hero section with professional introduction
+* About section
+* Skills section
+* Project showcase
+* Resume link
+* Contact links
 
 ## Tech Stack
 
-- HTML
-- CSS
-- Git
-- GitHub Pages
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub Pages
 
 ## Featured Projects
 
@@ -48,7 +50,20 @@ A responsive personal portfolio website built to showcase front-end development 
 **Live Demo:** https://morganneedham.github.io/portfolio/
 **GitHub:** https://github.com/MorganNeedham/portfolio
 
+## Skills Demonstrated
+
+This project demonstrates:
+
+* Building a responsive multi-section portfolio website
+* Structuring project content for job applications
+* Creating a project showcase with deployed links and GitHub repositories
+* Styling a clean, professional layout with custom CSS
+* Publishing a static website with GitHub Pages
+* Organizing portfolio projects for recruiter review
+
 ## Future Improvements
 
-- Add more projects
-- Add subtle animations
+* Add subtle animations and hover effects
+* Add additional project case study pages
+* Continue refining accessibility and mobile responsiveness
+* Update project listings as new portfolio work is completed
