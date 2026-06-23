@@ -21,7 +21,7 @@ body {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.35),
       rgba(0, 0, 0, 0.75)),
-    url("images/header-bg.png");
+    url("images/header-bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
