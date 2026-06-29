@@ -268,6 +268,32 @@ body {
   box-shadow: 0 0 18px rgba(0, 195, 255, 0.55);
 }
 
+/* PAGE LOAD ANIMATION */
+
+.hero-content,
+.section-card {
+  animation: fadeUp 1s ease-out both;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-content,
+  .section-card {
+    animation: none;
+  }
+}
+
 /* MOBILE */
 
 @media (max-width: 768px) {
